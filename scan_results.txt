@@ -1,0 +1,11 @@
+
+Nmap scan report for Local Device
+Host is up (0.00010s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+1935/tcp  open  rtmp
+49152/tcp open  unknown
+
